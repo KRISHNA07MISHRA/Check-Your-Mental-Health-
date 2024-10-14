@@ -36,8 +36,14 @@ Convenient: Talk to a psychologist from the comfort of your home, whenever you n
 Confidential: All interactions are fully encrypted and protected.
 Interactive: From quizzes to live interactions, we make mental health support engaging and personalized.
 AI-Powered: Use the AI chatbot for immediate guidance before or between sessions with professionals.
-📱 Screenshots
+
+
 ![image](https://github.com/user-attachments/assets/c657f05f-99b8-48fc-ae95-1dca00720e07)
+
+
+
+![image](https://github.com/user-attachments/assets/6aa5998e-ac91-4174-aafc-df2984bda166)
+
 
 
 
