@@ -37,7 +37,8 @@ Confidential: All interactions are fully encrypted and protected.
 Interactive: From quizzes to live interactions, we make mental health support engaging and personalized.
 AI-Powered: Use the AI chatbot for immediate guidance before or between sessions with professionals.
 📱 Screenshots
-![46200b659607cd7d6cf766db0a954391ac8d775d](https://github.com/user-attachments/assets/7ef138e5-fa15-43e4-99bd-5a4e99eb2b12)
+![image](https://github.com/user-attachments/assets/c657f05f-99b8-48fc-ae95-1dca00720e07)
+
 
 
 
@@ -54,4 +55,4 @@ Mental health is just as important as physical health, and Check Your Mental Hea
 Have questions or feedback? We’d love to hear from you!
 
 Email: krishnanandmishra386@gmail.com
-LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/coder-krishna-nand-mishra/)
+LinkedIn: https://www.linkedin.com/in/coder-krishna-nand-mishra/
